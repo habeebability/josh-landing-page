@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+body {
+  background-color: #8d8883;
+}
+.box {
+  height: 50vh;
+  background-color:#F1DDC9;
+  ;
+}
+.primary span {
+  display: block;
+}
+.gallery {
+  background-color: #ffffff;
+}
